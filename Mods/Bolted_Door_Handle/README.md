@@ -8,6 +8,9 @@ These doors are great, because not only are they solid (bolted on), but you can 
 
 HOWEVER, noone has done the same (that I can find) for the door handles.  So I decided to grow my own.  I took the adapted from stock handle that the above link provided, extended the bottom a bit to make room for some heatsets and bolts that won't interfere with the extrusion, and modified the stock latch depth to allow the doors to sit flush with the extrusion when all is done.
 
+![](./Images/mounted_front.jpeg)
+![](./Images/mounted_back.jpeg)
+
 Make no mistake, this is a total hack - my cad-fu is not strong and I munged this together in tinkercad, but I'm happy with the results.  A few notes:
 
 BOM:
@@ -16,6 +19,8 @@ BOM:
 - 2 x M3x8 SHCS
 - 2 x M3 hammerhead t-nuts
 - 5x3mm foam tape for the doors to keep the doors insulated after installing the hinges
+
+![](./Images/handle.jpeg)
 
 The hinge documentation is a bit sparse - it assumes you have 3mm tape around your doors.  I didn't originally, so I added it and was actually quite happy with the results.   But I wasn't happy with the latch he provided, so I adjusted the stock latch myself to allow the doors and my handles to sit flush.
 
