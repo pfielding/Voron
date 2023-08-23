@@ -42,9 +42,11 @@ Array:
 - array-front-screen-long-a.stl
 - array-front-with-mount-long-b.stl
 - array-front-with-mount-long-a.stl
+- buffer_bottom-long.stl
+
+Array - Short panels for original Pika with Bowden Support:
 - array-front-with-mount-short.stl
 - array-back-with-mount-short.stl
-- buffer_bottom-long.stl
 
 Buffers:
 - buffer-front-long-b2.stl
