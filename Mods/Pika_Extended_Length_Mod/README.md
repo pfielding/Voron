@@ -24,6 +24,8 @@ Lastly, I included short versions of the array front and back plates with the bu
 
 DISCLAIMER:  My CAD-fu is not strong, these mods are total hacks.  If you can improve upon them please feel free to, I encourage it. :) I just did this to "get the job done."
 
+This mod requires a 350x350mm build plate to print successfully.
+
 BOM:
 (additional to the standard Pika)
 - 4 x M2x8 SHCS additional to the Pika BOM, per buffer
