@@ -34,28 +34,28 @@ BOM:
 I think that's it, if you find I'm missing something let me know
 
 Array:
-array-back-with-mount-long-b.stl
-array-back-with-mount-long-a.stl
-array-front-screen-long-b.stl
-array-front-screen-long-a.stl
-array-front-with-mount-long-b.stl
-array-front-with-mount-long-a.stl
-array-front-with-mount-short.stl
-array-back-with-mount-short.stl
-buffer_bottom-long.stl
+- array-back-with-mount-long-b.stl
+- array-back-with-mount-long-a.stl
+- array-front-screen-long-b.stl
+- array-front-screen-long-a.stl
+- array-front-with-mount-long-b.stl
+- array-front-with-mount-long-a.stl
+- array-front-with-mount-short.stl
+- array-back-with-mount-short.stl
+- buffer_bottom-long.stl
 
 Buffers:
-buffer-front-long-b2.stl
-buffer-front-long-b1.stl
-buffer-front-long-a.stl
+- buffer-front-long-b2.stl
+- buffer-front-long-b1.stl
+- buffer-front-long-a.stl
 
 Bowden Support:
-pika-tube-support-6-buffers-v3.stl
+- pika-tube-support-6-buffers-v3.stl
 
 Alternate Mounting Plate:
-filament_bracket_mounting_plate.stl
-array-bottom-bracket-6-3mmHole.stl
+- filament_bracket_mounting_plate.stl
+- array-bottom-bracket-6-3mmHole.stl
 
 Mod for 10.8-ish mm magnets:
-11mm_buffer-top-magnet+magnet_v2.stl
-11mm_magnet_end_v2.stl
+- 11mm_buffer-top-magnet+magnet_v2.stl
+- 11mm_magnet_end_v2.stl
