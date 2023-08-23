@@ -61,3 +61,8 @@ Alternate Mounting Plate:
 Mod for 10.8-ish mm magnets:
 - 11mm_buffer-top-magnet+magnet_v2.stl
 - 11mm_magnet_end_v2.stl
+
+![](./Images/ExtendedArray.jpeg)
+![](./Images/ExtendedBuffer.jpeg)
+![](./Images/BowdenSupport.jpeg)
+![](./Images/AlternateMountPlate.jpeg)
