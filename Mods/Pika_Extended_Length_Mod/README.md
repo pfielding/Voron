@@ -22,7 +22,11 @@ I've also included a Notched version of the square mount plate for use with my F
 
 https://github.com/pfielding/Voron/tree/main/Mods/Filament_Spool_Rack
 
-The above mods are optional of course.'
+And if you want to mount your ERCF on the back similarly to how I Did, to take advantage of that notched plate, I used EtteGit's ERCF Mounting Frame, straight up.  I really like this mount because once installed, the ERCF is solidly mounted, yet is easily removed for maintenance.  I have the extrusion mounts lined up just right so that there's only one way the ERCF will lock into place on it, and once there it's solid.  But still just lifts out when you need to.  It's available here:
+
+https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/Mounting%20Frame
+
+The above mods are optional of course.
 
 Lastly, I included short versions of the array front and back plates with the buffer support mod on them, just in case someone wants to use it with their original Pika.
 

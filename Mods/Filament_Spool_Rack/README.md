@@ -24,6 +24,10 @@ Use 4 x 490mm extrusions to make an interlocked square the same size as the top 
 
 Mount the corner mounts with two M3 screws and t-nuts to the top frame, and a single M3 and t-nut to the printer.  the bottom M3 can be removed quickly for removal of the topper.
 
+If you want to mount your ERCF on the back of the rack similarly to how I did, I used EtteGit's ERCF Mounting Frame, straight up.  I really like this mount because once installed, the ERCF is solidly mounted, yet is easily removed for maintenance.  I have the extrusion mounts lined up just right so that there's only one way the ERCF will lock into place on it, and once there it's solid.  But still just lifts out when you need to.  It's available here:
+
+https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/Mounting%20Frame
+
 I think that's it, if you find I'm missing something let me know.  I haven't really provided detailed instructions here, so if you have any questions feel free to contact me at paul at fielding dot ca.
 
 Filament Holder and Rail:
