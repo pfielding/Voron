@@ -1,6 +1,6 @@
 # Filament spool Rack
 
-![](./Images/top rack 5.jpeg)
+![](./Images/top_rack_5.jpeg)
 
 This is a major modification to the Filament Coil - Width Slider by Seabird, which can be found here:
 
