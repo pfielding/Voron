@@ -37,8 +37,8 @@ Misc:
 - ERCF Rack Bracket.stl (print 4, use with M3 screws and hammerhead t-nuts for ease of removal)
 - Slider Setandalone.stl (standalone filament mount, 200mm wide, can mount beside the ercf to act as a bypass roll holder)
 
-![](./Images/top rack 6.jpeg)
-![](./Images/top rack 1.jpeg)
-![](./Images/top rack 2.jpeg)
-![](./Images/top rack 3.jpeg)
-![](./Images/top rack 4.jpeg)
+![](./Images/top_rack_6.jpeg)
+![](./Images/top_rack_1.jpeg)
+![](./Images/top_rack_2.jpeg)
+![](./Images/top_rack_3.jpeg)
+![](./Images/top_rack_4.jpeg)
