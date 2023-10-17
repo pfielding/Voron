@@ -18,7 +18,9 @@ I also did some further mods:
 - Modded the wall mount bracket to allow for easy mounting to a square mount plate that mounts onto a pair of extrusions on the top of my printer.
 - Modded the magnet end and the buffer top to support the magnets I bought, which turned out to be roughly 10.8mm in diameter.  It turns out that you never know how big your '10mm magnets' are going to be, as Geoff discusses on his github.  I suspect I'm an anomaly here, but if you happen to get magnets that are this diameter, then I've got the parts for you here. :) 
 
-I've also included a Notched version of the square mount plate for use with my Filament Spool Rack to allow the Ercf, buffer, and rack handle to all fit together nicely.
+I've also included a Notched version of the square mount plate for use with my Filament Spool Rack to allow the Ercf, buffer, and rack handle to all fit together nicely.  If you're interested in my Filament Spool Rack for top mounting on a v2.4 350, look here:
+
+https://github.com/pfielding/Voron/tree/main/Mods/Filament_Spool_Rack
 
 The above mods are optional of course.'
 
