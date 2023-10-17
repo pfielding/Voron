@@ -12,11 +12,13 @@ Disadvantage:  It's BIG.  If you don't have a reasonable place to mount it, it'l
 
 For me, I mount mine vertically on top of my printer, so going straight up wasn't a big deal.  It works for my purposes.
 
-I also did three further mods:
+I also did some further mods:
 
 - Added a bowden tube support to the array.  I just wanted a simple support that gave slide-in/slide-out support to the tubes where they enter the buffers, to allow the magnetic end to sit without strain.
 - Modded the wall mount bracket to allow for easy mounting to a square mount plate that mounts onto a pair of extrusions on the top of my printer.
 - Modded the magnet end and the buffer top to support the magnets I bought, which turned out to be roughly 10.8mm in diameter.  It turns out that you never know how big your '10mm magnets' are going to be, as Geoff discusses on his github.  I suspect I'm an anomaly here, but if you happen to get magnets that are this diameter, then I've got the parts for you here. :) 
+
+I've also included a Notched version of the square mount plate for use with my Filament Spool Rack to allow the Ercf, buffer, and rack handle to all fit together nicely.
 
 The above mods are optional of course.'
 
@@ -58,9 +60,11 @@ Bowden Support:
 
 Alternate Mounting Plate:
 - filament_bracket_mounting_plate.stl
+- filament_bracket_mounting_plate_ercf_notches.stl (alternate plate for if using my Top Spool Rack).
 - array-bottom-bracket-6-3mmHole.stl
 
 Mod for 10.8-ish mm magnets:
+(the 11mm hole was required to fit the 10.8-ish mm magents properly)
 - 11mm_buffer-top-magnet+magnet_v2.stl
 - 11mm_magnet_end_v2.stl
 
