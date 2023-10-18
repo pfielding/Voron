@@ -20,7 +20,7 @@ https://github.com/pfielding/Voron/tree/main/Mods/Pika_Extended_Length_Mod
 
 DISCLAIMER:  This stuff is a bit of a hack job.  But if you like it feel free to use it and hack it as desired.
 
-Use 4 x 490mm extrusions to make an interlocked square the same size as the top of the printer.   Two more extrusions, 470mm in length, to go inside to allow for mounting everything.  I mounted the rear inside extrusion with a 160mm gap to make for a 200mm edge to edge mount for the buffer.  The front inside extrusion is mounted with a 99mm inside gap for a 129mm edge to edge mount for the rails. Don't ask me why it's 129 instead of 130. It just kinda worked out that way.
+Use 4 x 490mm extrusions to make an interlocked square the same size as the top of the printer.   Two more extrusions, 470mm in length, to go inside to allow for mounting everything.  I mounted the rear inside extrusion with a 160mm gap to make for a 200mm edge to edge mount for the buffer.  The front inside extrusion is mounted with a 99mm inside gap for a 128mm edge to edge mount for the rails. Don't ask me why it's 128 instead of 130. It just kinda worked out that way.
 
 Mount the corner mounts with two M3 screws and t-nuts to the top frame, and a single M3 and t-nut to the printer.  the bottom M3 can be removed quickly for removal of the topper.
 
